@@ -10,7 +10,7 @@ Welcome to **SB Games Team**! 🚀
 
 ## 🌐 Connect
 
-- **Website**: [NOT OPEN YET]
+- **Website**: [https://sbgames.us.kg](https:sbgames.us.kg)
 - **Discord**: [NOT OPEN YET]
 
 Let’s develop with ease and creativity! 🎉
